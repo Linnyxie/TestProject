@@ -1,10 +1,8 @@
-import time
+# coding=utf-8
+"""
+TAPD-Github源码 测试
+"""
 
 
-now = time.time()
-print("无格式的时间：", now)
-
-now_format = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-print("格式化的时间：", now_format)
-
-print("增加一点打印，确认提交后TAPD端的源码关联效果——1。")
+print("20210524 同时提交多个文件、多行代码 2-1。")
+print("20210524 同时提交多个文件、多行代码 2-2。")
