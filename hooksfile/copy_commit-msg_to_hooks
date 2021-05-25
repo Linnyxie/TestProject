@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+# 本文件用于拷贝commit-msg文件至.git\hooks目录
+
+cp commit-msg ../.git/hooks/commit-msg
