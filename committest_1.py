@@ -6,3 +6,4 @@
 print("测试需求关联源码提交-1。")
 # Error test
 print(1/0)
+error test
